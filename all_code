@@ -1,0 +1,181 @@
+sudo docker run -dit -p 5000:5000 backend:v1
+ 1221  sudo netstat -tnlp
+ 1222  sudo lsof -i :5000
+ 1223  sudo netstat -tnlp
+ 1224  docker ps
+ 1225  ls
+ 1226  history
+ 1227  docker ps
+ 1228  docker images
+ 1229  ls
+ 1230  sudo netstat -tnlp
+ 1231  ls
+ 1232  cd V1-of-TC/
+ 1233  ls
+ 1234  cd Backend/
+ 1235  ls
+ 1236  cat > Dockerfile 
+ 1237  sudo chmod 777 Dockerfile 
+ 1238  cat Dockerfile 
+ 1239  cat > Dockerfile 
+ 1240  sudo vi Dockerfile 
+ 1241  cat Dockerfile 
+ 1242  sudo rm -rf Dockerfile 
+ 1243  cat > Dockerfile 
+ 1244  sudo chmod 777 Dockerfile
+ 1245  sudo touch Dockerfile
+ 1246  sudo chmod 777 Dockerfile
+ 1247  cat > Dockerfile 
+ 1248  sudo vi Dockerfile 
+ 1249  cat Dockerfile 
+ 1250  cat > Dockerfile 
+ 1251  sudo vim Dockerfile 
+ 1252  cat Dockerfile 
+ 1253  cat > Dockerfile 
+ 1254  sudo docker build -t backend:v5 .
+ 1255  cat > Dockerfile 
+ 1256  sudo docker build -t backend:v5 .
+ 1257  cat > Dockerfile 
+ 1258  sudo docker build -t backend:v5 .
+ 1259  sudo npm install -f
+ 1260  sudo npm run build
+ 1261  ls
+ 1262  npm install compression-webpack-plugin --save-dev -f
+ 1263  npm install compression-webpack-plugin -f
+ 1264  npm install -g webpack webpack-cli
+ 1265  sudo npm install -g webpack webpack-cli
+ 1266  sudo npm run build
+ 1267  date
+ 1268  ll
+ 1269  cd dist/
+ 1270  ll
+ 1271  cd ../
+ 1272  sudo vi Dockerfile 
+ 1273  cat > Dockerfile 
+ 1274  sudo docker build -t backend:v5 .
+ 1275  history | grep docker
+ 1276  sudo docker run -dit -p 5000:5000 backend:v5
+ 1277  sudo docker run -dit -p  backend:v5
+ 1278  sudo docker run -dit  backend:v5
+ 1279  sudo docker ps -a
+ 1280  sudo rm -f 7205593d8599  a59b431f6e40
+ 1281  sudo docker ps -a
+ 1282  sudo d
+ 1283  sudo docker ps -a
+ 1284  sudo docker rm -f 7205593d8599  a59b431f6e40
+ 1285  sudo docker ps -a
+ 1286  sudo docker rm -f b4a9c14e8137
+ 1287  sudo docker ps -a
+ 1288  sudo docker run -dit -p 5000:5000 backend:v5
+ 1289  sudo docker ps -a
+ 1290  cat Dockerfile 
+ 1291  sudo node server.js
+ 1292  sudo node dist/server.js
+ 1293  sudo npm run dev
+ 1294  RUN npm install -g nodemon
+ 1295  sudo npm run dev
+ 1296  RUN npm install -g nodemon
+ 1297  sudo npm install -g nodemon
+ 1298  sudo npm run dev
+ 1299  cat > Dockerfile 
+ 1300  sudo docker build -t backend:v4 .
+ 1301  sudo docker run -dit -p 5000:5000 backend:v4
+ 1302  sudo docker ps -a
+ 1303  sudo docker rm -f 07675012222f
+ 1304  sudo docker rm -f 2292b98a59b2 
+ 1305  sudo docker ps -a
+ 1306  cat > Dockerfile 
+ 1307  sudo docker build -t backend:v1 .
+ 1308  sudo docker run -dit -p 5000:5000 backend:v1
+ 1309  sudo docker ps -a
+ 1310  sudo docker logs -t 5e98a094b559
+ 1311  cat > Dockerfile 
+ 1312  sudo docker build -t backend:v2 .
+ 1313  sudo docker run -dit -p 5000:5000 backend:v2
+ 1314  sudo docker ps -a
+ 1315  sudo docker logs -f dc91181b4b38
+ 1316  sudo docker logs -t dc91181b4b38
+ 1317  cat > Dockerfile 
+ 1318  sudo docker build -t backend:v3 .
+ 1319  sudo docker run -dit -p 5000:5000 backend:v3
+ 1320  sudo docker ps -a
+ 1321  sudo docker logs -t 4fb170c4e30c 
+ 1322  history
+ 1323  cat > dist/
+ 1324  cat > Dockerfile 
+ 1325  sudo docker build -t backend:v7 .
+ 1326  cat > Dockerfile 
+ 1327  sudo docker build -t backend:v6 .
+ 1328  sudo docker run -dit -p 5000:5000 backend:v6
+ 1329  sudo docker ps
+ 1330  sudo netstat -tunlp
+ 1331  sudo docker ps
+ 1332  sudo docker rm -f 297d4d4937ad 
+ 1333  sudo docker ps
+ 1334  sudo npm run build
+ 1335  sudo npm run dev
+ 1336  sudo docker run -dit -p 5000:5000 backend:v6
+ 1337  sudo docker ps
+ 1338  sudo docker exec -it 5d0eb63fd0a8 /bin/bash
+ 1339  cd dist/
+ 1340  ls
+ 1341  sudo docker exec -it 5d0eb63fd0a8 /bin/bash
+ 1342  cd
+ 1343  cd V1-of-TC/
+ 1344  cd Backend/
+ 1345  cat > Dockerfile 
+ 1346  sudo docker build -t backend:v8 .
+ 1347  cat > Dockerfile 
+ 1348  sudo docker build -t backend:v9 .
+ 1349  cat > Dockerfile 
+ 1350  cat >> Dockerfile 
+ 1351  sudo vi Dockerfile 
+ 1352  sudo docker build -t backend:v10 .
+ 1353  sudo docker run -dit -p 5000:5000 backend:v10
+ 1354  sudo netstat -tunlp
+ 1355  kill -9  117550
+ 1356  sudo docker ps -a
+ 1357  sudo docker rm -f  adbff0f06252 adbff0f06252 
+ 1358  sudo docker rm -f  5d0eb63
+ 1359  sudo docker ps -a
+ 1360  sudo docker rm -f dc91181b4b38 dc91181b4b38 
+ 1361  sudo docker rm -f dc91181b4b38
+ 1362  sudo docker ps -a
+ 1363  sudo docker rm -f 5e98a094b559 4fb170c4e30c 
+ 1364  sudo docker ps -a
+ 1365  sudo docker run -dit -p 5000:5000 backend:v10
+ 1366  sudo docker ps -a
+ 1367  curl -v 3.7.169.233:5000
+ 1368  sudo netstat -tunlp
+ 1369  curl -v 3.7.169.233:5000
+ 1370  sudo vi Dockerfile 
+ 1371  sudo history
+ 1372  history
+ 1373  docker ps
+ 1374  ls
+ 1375  cd V1-of-TC/
+ 1376  ls
+ 1377  cd Backend/
+ 1378  ls
+ 1379  cat .env 
+ 1380  netstat -tnlp
+ 1381  docker ps
+ 1382  docker ps 
+ 1383  docker ps
+ 1384  docker ps -a
+ 1385  docker ps
+ 1386  ls
+ 1387  cat Dockerfile 
+ 1388  docker ps
+ 1389  sudo npm run dev &
+ 1390  sudo netstat -tnlp
+ 1391  docker ps
+ 1392  history
+ 1393  docker ps -a
+ 1394  ls
+ 1395  cd V1-of-TC/
+ 1396  ls
+ 1397  cd Backend/
+ 1398  ls
+ 1399  cat Dockerfile 
+ 1400  history
